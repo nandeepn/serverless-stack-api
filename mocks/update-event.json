@@ -1,0 +1,11 @@
+{
+    "body": "{\"content\":\"old world\",\"attachment\":\"new.jpg\"}",
+    "pathParameters": {
+        "id": "ecbd8fe0-9270-11ea-8eb2-1354692fd956"
+    },
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
