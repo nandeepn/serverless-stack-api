@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES7 syntax, serverless-offline, linting, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
@@ -140,3 +141,6 @@ To [override the default config](https://eslint.org/docs/user-guide/configuring)
 ---
 
 This repo is maintained by [Anomaly Innovations](https://anoma.ly); makers of [Seed](https://seed.run) and [Serverless Stack](https://serverless-stack.com).
+=======
+# serverless-stack-api
+>>>>>>> 81602acb32ec694b976cd53f8a819e02aed91563
