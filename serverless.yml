@@ -123,7 +123,7 @@ functions:
 
 # Create our resources with separate CloudFormation templates
 resources:
-  # API Gateway Errors
+    # API Gateway Errors
   - ${file(resources/api-gateway-errors.yml)}
   # DynamoDB
   - ${file(resources/dynamodb-table.yml)}
